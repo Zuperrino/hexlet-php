@@ -1,0 +1,15 @@
+{
+    "name": "hex/hexletphptest",
+    "autoload": {
+        "psr-4": {
+            "Hex\\Hexletphptest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zuperrino",
+            "email": "deefreez@yandex.ru"
+        }
+    ],
+    "require": {}
+}
