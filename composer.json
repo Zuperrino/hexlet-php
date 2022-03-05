@@ -11,5 +11,11 @@
             "email": "deefreez@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83",
+        "funct/funct": "^1.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    }
 }
